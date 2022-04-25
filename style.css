@@ -1,0 +1,14 @@
+.btn{
+  position:absolute;
+  top:60%;
+  left:30%;
+  padding:25px;
+  background-color:#ffffff;
+ 
+}
+
+body{
+  height:150%;
+  width:150%;
+  background-color:gray;
+}
